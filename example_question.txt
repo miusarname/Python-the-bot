@@ -1,0 +1,5 @@
+Cuál es la descripción de los errores de sintaxis
+Qué son las palabras reservadas con un lenguaje de programación
+Describe la función estática con su uso?
+Cuál es la diferencia entre las funciones abs () y fabs ()
+Describe los punteros salvajes en C
