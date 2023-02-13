@@ -35,7 +35,7 @@ async def main():
     async with client:
         await load()
         await client.start('MTA3MzYwODA1NDE2MTAxNDg0NQ.G9WW4k.11bYC4CbXW8luhSwyMVru6x0C3pFzo4-HVfIJ') 
-        """ falta la al final c """
+        """ falta al final la c para que sea el token correcto """
 
 
 
